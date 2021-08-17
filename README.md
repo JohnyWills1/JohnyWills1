@@ -23,4 +23,4 @@
 <br />
 <br />
 
-![Johny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnyWills1&show_icons=true&theme=react&count_private=true&hide=stars)
+![Johny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnyWills1&show_icons=true&theme=material-palenight&count_private=true&hide=stars)
