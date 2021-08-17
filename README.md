@@ -1,13 +1,9 @@
-### Hey, I'm Johny
-
 ## I'm a Frontend Engineer
 
 - 💼 I am currently working at Avanssion
 - 🗼 I am living in Tokyo, Japan
 - 🎉 2021 Goal: Reach 2,500 contributions
 - 🌈 I strive to be the best I can
-
-<br />
 
 ### Languages and Tools:
 
@@ -23,3 +19,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+---
+
+![Johny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnyWills1&count_private=true&hide-stars?theme=react)
