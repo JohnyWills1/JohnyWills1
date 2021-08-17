@@ -24,3 +24,8 @@
 <br />
 
 ![Johny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnyWills1&show_icons=true&theme=material-palenight&count_private=true&hide=stars)
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyWills1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
