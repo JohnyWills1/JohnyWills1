@@ -1,9 +1,9 @@
 ## I'm a Frontend Engineer
 
-💼 I am currently working at @avanssion
-🗼 I am living in Tokyo, Japan
-🎉 2021 Goal: Reach 2,500 contributions
-🌈 I strive to be the best I can
+- 💼 I am currently working at @avanssion
+- 🗼 I am living in Tokyo, Japan
+- 🎉 2021 Goal: Reach 2,500 contributions
+- 🌈 I strive to be the best I can
 
 ### Languages and Tools:
 
