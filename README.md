@@ -22,6 +22,6 @@
 <br />
 <br />
 
-![Johny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnyWills1&show_icons=true&count_private=true&hide=stars&bg_color=#22272e&border_color=#292e34&icon_color=#9d7cc3)
+![Johny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnyWills1&show_icons=true&count_private=true&hide=stars?bg_color=#22272e?border_color=#292e34?icon_color=#9d7cc3)
 
 ![](https://raw.githubusercontent.com/JohnyWills1/github-stats-transparent/output/generated/languages.svg)
