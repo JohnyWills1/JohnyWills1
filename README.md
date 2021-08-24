@@ -5,6 +5,11 @@
 - 🎉 2021 Goal: Reach 2,500 contributions
 - 🌈 I strive to be the best I can
 
+- 💼 現在@avanssion で勤めています
+- 🗼 東京で住んでいます
+- 🎉 2021 の目標は: 2,500 以上の GitHub コントリビューション
+- 🌈 最も良い自分へ向かいたい
+
 ### Languages:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
