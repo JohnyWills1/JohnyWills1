@@ -3,11 +3,13 @@
 - 💼 I am currently working at @avanssion
 - 🗼 I am living in Tokyo, Japan
 - 🎉 2021 Goal: Reach 2,500 contributions ✅
+- 🎉 2022 Goal: Reach 4,000 contributions
 - 🌈 I strive to be the best I can
 
 - 💼 現在@avanssionで勤めています
 - 🗼 東京に住んでいます
 - 🎉 2021の目標は: 2,500 以上の GitHub コントリビューションです ✅
+- 🎉 2022の目標は: 4,000 以上の GitHub コントリビューションです ✅
 - 🌈 最も良い自分へ向かいたい
 
 ### Languages:
