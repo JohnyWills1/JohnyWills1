@@ -1,14 +1,14 @@
 # Hi, I'm Johny a Frontend Engineer
 
 ## English
-- 💼 I am currently working at @caddijp
+- 💼 I am currently working at @paypay
 - 🗼 I am living in Tokyo, Japan
 - 🎉 2021 Goal: Reach 2,500 contributions ✅
 - 🎉 2022 Goal: Reach 4,000 contributions ✅
 - 🎉 2024 Goal: Contribute to an Open Source Project
 
 ## 日本語
-- 💼 現在@caddijpで勤めています
+- 💼 現在@paypayで勤めています
 - 🗼 東京に住んでいます
 - 🎉 2021の目標は: 2,500 以上の GitHub コントリビューションです ✅
 - 🎉 2022の目標は: 4,000 以上の GitHub コントリビューションです ✅
